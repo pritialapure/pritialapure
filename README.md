@@ -6,7 +6,7 @@ I enjoy turning ideas into real-world applications using the MERN stack, REST AP
 
 Currently, I'm expanding my knowledge in System Design, DevOps, and Cloud Computing while solving coding problems and building practical projects.
 
-🌍  I'm based in Pune , India
+🌍  I'm based in Pune , India 
 ✉️  You can contact me at pritialapure@gmail.com
 🚀  I'm currently working on NxtBuild – AI Workflow Automation Platform
 🧠  I'm learning System Design ,Docker ,DevOps, Cloud Computing & Advanced Backend Development
