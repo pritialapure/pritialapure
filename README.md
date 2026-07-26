@@ -1,4 +1,4 @@
-<img url="" />
+<img url="https://github.com/pritialapure/pritialapure/blob/main/Building%20Scalable%20Web%20Applications%20%26%20AI-Powered%20Solutions.jpg" />
 <h1 align="center">Hi 👋, I'm Priti Alapure</h1>
 <h3 align="center">MERN | AI Developer | Computer Science Engineering Student</h3>
 
