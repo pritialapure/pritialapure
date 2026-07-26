@@ -110,35 +110,17 @@ Git • GitHub • Postman • Linux
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pritialapure&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritialapure&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pritialapure&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🏆 Achievements
 
 🏅 Engineering Mathematics-I University Topper (100/100)
 
-💻 120+ LeetCode Problems Solved
+💻 150+ LeetCode Problems Solved
 
 🎖 Oracle SQL Certified
 
 🎖 NxtWave Certified
-
-🚀 Smart India Hackathon Participant
 
 ---
 
