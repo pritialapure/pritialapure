@@ -1,3 +1,4 @@
+<img url="" />
 <h1 align="center">Hi 👋, I'm Priti Alapure</h1>
 <h3 align="center">MERN | AI Developer | Computer Science Engineering Student</h3>
 
