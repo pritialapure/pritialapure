@@ -12,16 +12,16 @@ Computer Science Engineering Student | MERN Stack Developer | AI & GenAI Develop
 <img src="https://img.shields.io/badge/GitHub-pritialapure-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://www.linkedin.com/in/priti-alapure-9b7621292/">
+<a href="https://www.linkedin.com/in/priti-alapure-9b7621292/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:pritialapure@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://leetcode.com/YOUR-ID">
-<img src="https://leetcode.com/u/pritialapure/">
+<a href="https://leetcode.com/u/pritialapure/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
 </a>
 
 </p>
@@ -111,18 +111,17 @@ Git • GitHub • Postman • Linux
 ---
 
 
-
 ## 🏆 Achievements
 
 🏅 Engineering Mathematics-I University Topper (100/100)
 
-💻 150+ LeetCode Problems Solved
+💻 120+ LeetCode Problems Solved
 
 🎖 Oracle SQL Certified
 
 🎖 NxtWave Certified
 
----
+
 
 ## 🌱 Currently Learning
 
