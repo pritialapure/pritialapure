@@ -13,7 +13,7 @@ Computer Science Engineering Student | MERN Stack Developer | AI & GenAI Develop
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://www.linkedin.com/in/priti-alapure-9b7621292/">
 </a>
 
 <a href="mailto:pritialapure@gmail.com">
