@@ -21,7 +21,7 @@ Computer Science Engineering Student | MERN Stack Developer | AI & GenAI Develop
 </a>
 
 <a href="https://leetcode.com/YOUR-ID">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+<img src="https://leetcode.com/u/pritialapure/">
 </a>
 
 </p>
