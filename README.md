@@ -59,7 +59,7 @@ AI-powered emergency decision support system using:
 - FastAPI
 - React
 
-➡️ https://github.com/pritialapure/AI-Guardian
+➡️https://guardianai-waii.vercel.app/
 
 ---
 
