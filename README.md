@@ -30,55 +30,93 @@ Computer Science Engineering Student | MERN Stack Developer | AI & GenAI Develop
 
 ## 👩‍💻 About Me
 
-🎓 Third-Year Computer Science Engineering Student
+🎓 Final-Year Computer Science Engineering Student
 
 💡 Passionate about Artificial Intelligence, Generative AI, and Full Stack Development
 
-🚀 Building AI-powered applications that solve real-world problems
+🚀 Building AI-powered applications and automation workflows that solve real-world problems
+
+🧠 Interested in AI Agents, RAG, and intelligent developer tools
 
 📚 Currently exploring
 
-- LangGraph
-- AI Agents
-- Model Context Protocol (MCP)
-- Machine Learning
-- Retrieval-Augmented Generation (RAG)
+* LangGraph
+* AI Agents
+* Model Context Protocol (MCP)
+* Machine Learning
+* Retrieval-Augmented Generation (RAG)
+* System Design
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Guardian – Emergency Copilot
+### 🤖 Placement-Copilot AI
 
-AI-powered emergency decision support system using:
+AI-powered placement automation platform designed to simplify the internship and job application process.
 
-- LangGraph
-- RAG
-- Gemini
-- ChromaDB
-- FastAPI
-- React
+**Features**
 
-➡️https://guardianai-waii.vercel.app/
+* 📧 Extracts placement opportunities from emails
+* 🤖 Analyzes Job Descriptions using AI
+* 📄 Generates tailored resumes based on the JD
+* 🔗 Automatically manages coding profile links
+* 📋 Simplifies application form filling
+* ⏰ Tracks application deadlines and opportunities
 
----
+**Tech Stack**
 
-### 📄 AI Study Assistant
-
-Explain difficult topics using different AI personalities.
-
-Tech Stack
-
-- Gemini
-- Python
-- Gradio
-- Hugging Face
+* Node.js
+* Express.js
+* MongoDB
+* React
+* Google Gemini
+* AI Automation
 
 ---
 
-### 🐦 Twitter Backend Clone
+### 🧠 AI Learning Path Generator
 
-Node.js + Express + SQLite + JWT Authentication
+AI-powered learning assistant that generates personalized learning roadmaps based on a user's goals, current skill level, and target technology.
+
+**Features**
+
+* 🎯 Personalized learning paths
+* 📚 Topic-wise learning roadmap
+* 🧩 Structured modules and milestones
+* 🤖 AI-generated recommendations
+* 📈 Progressive skill development
+
+**Tech Stack**
+
+* Python
+* Google Gemini
+* LangChain
+* Generative AI
+* React
+
+---
+
+### 📄 DocuChat AI – RAG Document Assistant
+
+AI-powered document question-answering application that allows users to interact with their documents using natural language.
+
+**Features**
+
+* 📑 Upload and process documents
+* 🔍 Semantic search using vector embeddings
+* 💬 Ask questions about documents
+* 🧠 Retrieval-Augmented Generation (RAG)
+* 📌 Context-aware AI responses
+
+**Tech Stack**
+
+* Python
+* LangChain
+* Hugging Face Embeddings
+* ChromaDB
+* Google Gemini
+* RAG
 
 ---
 
@@ -94,11 +132,11 @@ React • HTML • CSS • Bootstrap
 
 ### Backend
 
-Node.js • Express • FastAPI • Flask
+Node.js • Express.js • FastAPI • Flask
 
 ### AI / ML
 
-LangChain • LangGraph • MCP • Gemini API • Hugging Face • ChromaDB • TensorFlow
+LangChain • LangGraph • MCP • Gemini API • Hugging Face • ChromaDB • TensorFlow • RAG
 
 ### Database
 
@@ -110,7 +148,6 @@ Git • GitHub • Postman • Linux
 
 ---
 
-
 ## 🏆 Achievements
 
 🏅 Engineering Mathematics-I University Topper (100/100)
@@ -121,21 +158,22 @@ Git • GitHub • Postman • Linux
 
 🎖 NxtWave Certified
 
-
+---
 
 ## 🌱 Currently Learning
 
-- Machine Learning
-- LangGraph
-- AI Agents
-- MCP
-- Advanced RAG
-- System Design
+* Machine Learning
+* LangGraph
+* AI Agents
+* MCP
+* Advanced RAG
+* System Design
+* AI Automation
 
 ---
 
 ## 📫 Reach Me
 
-📧 **pritialapure@gmail.com**
+📧 **[pritialapure@gmail.com](mailto:pritialapure@gmail.com)**
 
 ⭐ If you like my work, consider giving a star to my repositories.
