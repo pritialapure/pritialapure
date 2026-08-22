@@ -219,9 +219,7 @@ https://github.com/pritialapure/AiStudyAssistant
 
 🏅 **Engineering Mathematics-I University Topper — 100/100**
 
-💻 **120+ LeetCode Problems Solved**
-
-🎖 **Oracle SQL Certified**
+💻 **160+ LeetCode Problems Solved**
 
 🎖 **NxtWave Certified**
 
